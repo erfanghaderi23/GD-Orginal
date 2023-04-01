@@ -1,0 +1,76 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-Group-99 {
+  width: 1.1669921875em;
+}
+
+.icon-Group-239 {
+  width: 0.970703125em;
+}
+
+.icon-Path-12 {
+  width: 1.1376953125em;
+}
+
+.icon-Path-15 {
+  width: 1.0166015625em;
+}
+
+.icon-Path-18 {
+  width: 0.818359375em;
+}
+
+.icon-Path-5566 {
+  width: 0.5654296875em;
+}
+
+.icon-Path-5567 {
+  width: 0.5654296875em;
+}
+
+.icon-Path-5642 {
+  width: 1.76953125em;
+}
+
+.icon-talaei_balesh {
+  width: 1.279296875em;
+}
+
+.icon-talaei_box {
+  width: 1.6484375em;
+}
+
+.icon-talaei_ru_takhti {
+  width: 1.9892578125em;
+}
+
+.icon-talaei_taj {
+  width: 1.27734375em;
+}
+
+.icon-talaei_tebbi {
+  width: 1.4306640625em;
+}
+
+.icon-talaei_tebbi_monfasel {
+  width: 1.4306640625em;
+}
+
+.icon-talaei_tebbi_motasel {
+  width: 1.4306640625em;
+}

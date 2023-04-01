@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?k3nnsa');
+  src:  url('fonts/icomoon.eot?k3nnsa#iefix') format('embedded-opentype'),
+  url('fonts/icomoon.ttf?k3nnsa') format('truetype'),
+  url('fonts/icomoon.woff?k3nnsa') format('woff'),
+  url('fonts/icomoon.svg?k3nnsa#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Group-142:before {
+  content: "\e918";
+  color: #857c7c;
+}
+.icon-Path-5642:before {
+  content: "\e917";
+  color: #fff;
+}
+.icon-instagram:before {
+  content: "\e90d";
+  color: #d8c085;
+}
+.icon-Path-5564:before {
+  content: "\e915";
+  color: #857c7c;
+}
+.icon-time:before {
+  content: "\e916";
+  color: #857c7c;
+}
+.icon-Group-99 .path1:before {
+  content: "\e900";
+  color: rgb(177, 160, 121);
+}
+.icon-Group-99 .path2:before {
+  content: "\e901";
+  margin-left: -1.1669921875em;
+  color: rgb(216, 192, 133);
+}
+.icon-Group-239:before {
+  content: "\e902";
+  color: #d8c085;
+}
+.icon-Layer-2:before {
+  content: "\e903";
+  color: #d8c085;
+}
+.icon-Path-10:before {
+  content: "\e904";
+  color: #f3eddf;
+}
+.icon-Path-12:before {
+  content: "\e905";
+  color: #d8c085;
+}
+.icon-Path-15:before {
+  content: "\e906";
+  color: #d8c085;
+}
+.icon-Path-18:before {
+  content: "\e907";
+  color: #d8c085;
+}
+.icon-Path-5566:before {
+  content: "\e908";
+  color: #d8c085;
+}
+.icon-Path-5567:before {
+  content: "\e909";
+  color: #d8c085;
+}
+.icon-Path-5569:before {
+  content: "\e90a";
+  color: #d8c085;
+}
+.icon-Path-5570:before {
+  content: "\e90b";
+  color: #d8c085;
+}
+.icon-Path-5572:before {
+  content: "\e90c";
+  color: #d8c085;
+}
+.icon-talaei_balesh:before {
+  content: "\e90e";
+  color: #d8c085;
+}
+.icon-talaei_box:before {
+  content: "\e90f";
+  color: #d8bf84;
+}
+.icon-talaei_ru_takhti:before {
+  content: "\e910";
+  color: #d8c085;
+}
+.icon-talaei_taj:before {
+  content: "\e911";
+  color: #d8c085;
+}
+.icon-talaei_tebbi:before {
+  content: "\e912";
+  color: #d8bf84;
+}
+.icon-talaei_tebbi_monfasel:before {
+  content: "\e913";
+  color: #d8c085;
+}
+.icon-talaei_tebbi_motasel:before {
+  content: "\e914";
+  color: #d8c085;
+}

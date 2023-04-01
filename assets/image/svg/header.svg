@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1426" height="186" viewBox="0 0 1426 186">
+  <defs>
+    <filter id="Rectangle_2019" x="0" y="0" width="1426" height="186" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#c1af84" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="header" transform="translate(30 25)">
+    <g transform="matrix(1, 0, 0, 1, -30, -25)" filter="url(#Rectangle_2019)">
+      <rect id="Rectangle_2019-2" data-name="Rectangle 2019" width="1366" height="126" transform="translate(30 25)" fill="#fff"/>
+    </g>
+    <path id="Rectangle_1936" data-name="Rectangle 1936" d="M0,0H128a11,11,0,0,1,11,11V53a0,0,0,0,1,0,0H11A11,11,0,0,1,0,42V0A0,0,0,0,1,0,0Z" transform="translate(250 42)" fill="#f8f5f2"/>
+    <path id="Rectangle_2017" data-name="Rectangle 2017" d="M11,0H139a0,0,0,0,1,0,0V42a11,11,0,0,1-11,11H0a0,0,0,0,1,0,0V11A11,11,0,0,1,11,0Z" transform="translate(926 42)" fill="#f8f5f2"/>
+    <rect id="Rectangle_2015" data-name="Rectangle 2015" width="31" height="31" transform="translate(358 64)" fill="#f3eddf"/>
+    <rect id="Rectangle_2018" data-name="Rectangle 2018" width="33" height="30" transform="translate(1032 42)" fill="#f3eddf"/>
+    <path id="Rectangle_1933" data-name="Rectangle 1933" d="M11,0H53a0,0,0,0,1,0,0V42A11,11,0,0,1,42,53H0a0,0,0,0,1,0,0V11A11,11,0,0,1,11,0Z" transform="translate(61 42)" fill="#f8f5f2"/>
+    <rect id="Rectangle_2010" data-name="Rectangle 2010" width="31" height="31" transform="translate(61 64)" fill="#f3eddf"/>
+    <path id="Rectangle_1934" data-name="Rectangle 1934" d="M0,0H42A11,11,0,0,1,53,11V53a0,0,0,0,1,0,0H11A11,11,0,0,1,0,42V0A0,0,0,0,1,0,0Z" transform="translate(124 42)" fill="#f8f5f2"/>
+    <rect id="Rectangle_2011" data-name="Rectangle 2011" width="32" height="31" transform="translate(124 42)" fill="#f3eddf"/>
+    <path id="Rectangle_1935" data-name="Rectangle 1935" d="M11,0H53a0,0,0,0,1,0,0V42A11,11,0,0,1,42,53H0a0,0,0,0,1,0,0V11A11,11,0,0,1,11,0Z" transform="translate(187 42)" fill="#f8f5f2"/>
+    <path id="Rectangle_2016" data-name="Rectangle 2016" d="M11,0H53a0,0,0,0,1,0,0V40A11,11,0,0,1,42,51H0a0,0,0,0,1,0,0V11A11,11,0,0,1,11,0Z" transform="translate(481 42)" fill="#d8c085"/>
+    <rect id="Rectangle_2012" data-name="Rectangle 2012" width="31" height="31" transform="translate(209 42)" fill="#f3eddf"/>
+    <rect id="Rectangle_1932" data-name="Rectangle 1932" width="404" height="2" transform="translate(481 92)" fill="#d8c085"/>
+    <g id="Group_98" data-name="Group 98" transform="translate(42.637 -17)">
+      <g id="Rectangle_1931" data-name="Rectangle 1931" transform="translate(1068.363 63)" fill="none" stroke="#ebc66f" stroke-width="1" opacity="0">
+        <rect width="197" height="48" rx="6" stroke="none"/>
+        <rect x="0.5" y="0.5" width="196" height="47" rx="5.5" fill="none"/>
+      </g>
+      <text id="خوابهای_طلایی" data-name="خوابهای طلایی" transform="translate(1074.363 97)" fill="#d8c085" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">خوابهای طلایی</tspan></text>
+    </g>
+    <path id="Path_12" data-name="Path 12" d="M7.845,2.008a6.345,6.345,0,0,0-4.86,1.81C.365,6.44.641,10.845,3.442,13.65l.9.9,8.135,8.142a.873.873,0,0,0,1.23,0l8.132-8.142.9-.9c2.8-2.8,3.073-7.21.453-9.832s-7.014-2.344-9.815.46l-.283.283L12.8,4.278A7.62,7.62,0,0,0,7.845,2.008Z" transform="translate(137.418 56.002)" fill="#d8c085"/>
+    <path id="Path_18" data-name="Path 18" d="M14,4.286H8.286A2.285,2.285,0,0,0,6,6.572v16A2.285,2.285,0,0,0,8.286,24.86H14v2.286h2.286V2H14Zm0,17.145H8.286L14,14.573ZM24.288,4.286H18.573V6.572h5.715V21.431l-5.715-6.858V24.86h5.715a2.285,2.285,0,0,0,2.286-2.286v-16A2.285,2.285,0,0,0,24.288,4.286Z" transform="translate(196.908 54)" fill="#d8c085"/>
+    <path id="Path_15" data-name="Path 15" d="M5.5,16.023l.795-.064H21.059l2.77-9.664H6.563L6.209,2H2V4.147H4.233l.805,9.76a2.684,2.684,0,0,0,.719,5.272h.73a3.221,3.221,0,1,0,6.056,0h3.618a3.21,3.21,0,1,0,3.017-2.147H5.758a.537.537,0,0,1-.537-.537.526.526,0,0,1,.279-.472ZM19.18,19.18a1.074,1.074,0,1,1-1.074,1.074A1.074,1.074,0,0,1,19.18,19.18Zm-9.664,0a1.074,1.074,0,1,1-1.074,1.074A1.074,1.074,0,0,1,9.516,19.18Z" transform="translate(74.14 56)" fill="#d8c085"/>
+    <text id="ورود_ثبت_نام" data-name="ورود/ثبت نام" transform="translate(311 74)" fill="#d8c085" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-39.836" y="0">ورود/ثبت نام</tspan></text>
+    <text id="محصولات" transform="translate(985 74)" fill="#d8c085" font-size="15" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="-31.315" y="0">محصولات</tspan></text>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(357.166 57.141)">
+      <g id="person">
+        <rect id="Rectangle_2014" data-name="Rectangle 2014" width="23" height="23" transform="translate(-0.166 -0.14)" fill="#d8c085" opacity="0"/>
+        <path id="Path_19" data-name="Path 19" d="M11.624,10.57A3.785,3.785,0,1,0,7.839,6.785,3.785,3.785,0,0,0,11.624,10.57ZM17.3,20.032a.946.946,0,0,0,.946-.946A6.624,6.624,0,0,0,5,19.086a.946.946,0,0,0,.946.946Z" transform="translate(-0.269 -0.161)" fill="#d8c085"/>
+      </g>
+    </g>
+    <text id="تایپ_کنید" data-name="تایپ کنید" transform="translate(878 72)" fill="#857c7c" font-size="16" font-family="SegoeUI-Light, Segoe UI" font-weight="300"><tspan x="-55.516" y="0">تایپ کنید</tspan></text>
+    <path id="Path_10" data-name="Path 10" d="M25.616,23.8l-4.342-4.329a10.114,10.114,0,0,0,2.158-6.258A10.216,10.216,0,1,0,13.216,23.433a10.114,10.114,0,0,0,6.258-2.158L23.8,25.616A1.282,1.282,0,1,0,25.616,23.8ZM5.554,13.216a7.662,7.662,0,1,1,7.662,7.662,7.662,7.662,0,0,1-7.662-7.662Z" transform="translate(492.506 53.506)" fill="#f3eddf"/>
+    <g id="Group_99" data-name="Group 99" transform="translate(1031.37 55)">
+      <path id="Path_20" data-name="Path 20" d="M5,6V8.466H22.26V6Z" fill="#b1a079"/>
+      <path id="Path_21" data-name="Path 21" d="M22.26,11v2.466H5V11Zm0,6.164V19.63H5V17.164Z" transform="translate(0 1.164)" fill="#d8c085"/>
+    </g>
+  </g>
+</svg>
